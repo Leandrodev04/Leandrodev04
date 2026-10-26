@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there 👋, I'm a Developer!
 
-<!--
-**Leandrodev04/Leandrodev04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+🔭 I’m currently working on personal projects
+🌱 I’m currently learning programming and new technologies
+👯 I’m looking to collaborate on interesting projects
+🤔 I’m always looking for new challenges and opportunities to learn
+💬 Ask me about technology, programming, and development
+📫 How to reach me: Your email
+⚡ Fun fact: I love learning new things and turning ideas into code!
+🛠️ Technologies & Tools
+💻 Programming
+🌐 Web Development
+🔧 Git & GitHub
+📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+!GitHub Stats
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories.
